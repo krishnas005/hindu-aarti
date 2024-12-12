@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "name": "Jai Ganesh Aarti",
+    "festivals": ["Ganesh Chaturthi", "Diwali", "Dhanteras", "Navratri", "Shivratri"],
+    "content": {
+      "hindi": "जय गणेश, जय गणेश, जय गणेश देवा।\n\nमाता जाकी पार्वती, पिता महादेवा॥ x2\n\nएकदन्त दयावन्त, चार भुजाधारी।\n\nमाथे पर तिलक सोहे, मूसे की सवारी॥ x2\n\n(माथे पर सिन्दूर सोहे, मूसे की सवारी॥)\n\nपान चढ़े फूल चढ़े, और चढ़े मेवा।\n\n(हार चढ़े, फूल चढ़े, और चढ़े मेवा।)\n\nलड्डुअन का भोग लगे, सन्त करें सेवा॥ x2\n\nजय गणेश, जय गणेश, जय गणेश देवा।\n\nमाता जाकी पार्वती, पिता महादेवा॥ x2\n\nअँधे को आँख देत, कोढ़िन को काया।\n\nबाँझन को पुत्र देत, निर्धन को माया॥ x2\n\n'सूर' श्याम शरण आए, सफल कीजे सेवा।\n\nमाता जाकी पार्वती, पिता महादेवा॥ x2\n\n(दीनन की लाज राखो, शम्भु सुतवारी।\n\nकामना को पूर्ण करो, जग बलिहारी॥ x2)\n\nजय गणेश, जय गणेश, जय गणेश देवा।\n\nमाता जाकी पार्वती, पिता महादेवा॥ x2",
+      "hinglish": "Jai Ganesh, Jai Ganesh, Jai Ganesh Deva.\n\nMata Jaaki Parvati, Pita Mahadeva. x2\n\nEkadant Dayavant, Chaar Bhujadhari.\n\nMathe Par Tilak Sohe, Moose Ki Sawaari. x2\n\n(Mathe Par Sindoor Sohe, Moose Ki Sawaari.)\n\nPaan Chadhe Phool Chadhe, Aur Chadhe Meva.\n\n(Haar Chadhe, Phool Chadhe, Aur Chadhe Meva.)\n\nLadduan Ka Bhog Lage, Sant Karen Seva. x2\n\nJai Ganesh, Jai Ganesh, Jai Ganesh Deva.\n\nMata Jaaki Parvati, Pita Mahadeva. x2\n\nAndhe Ko Aankh Det, Kodhin Ko Kaya.\n\nBaanjan Ko Putra Det, Nirdhan Ko Maya. x2\n\n'Soor' Shyam Sharan Aaye, Safal Kije Seva.\n\nMata Jaaki Parvati, Pita Mahadeva. x2\n\n(Deenan Ki Laaj Rakho, Shambhu Sutwari.\n\nKamna Ko Poorn Karo, Jag Balihaari. x2)\n\nJai Ganesh, Jai Ganesh, Jai Ganesh Deva.\n\nMata Jaaki Parvati, Pita Mahadeva. x2"
+    }
+  },
+    {
+      "id": 2,
+      "name": "Lakshmi Aarti",
+      "festivals": ["Diwali", "Dhanteras", "Navratri"],
+      "content": {
+        "hindi": "ॐ जय लक्ष्मी माता,\nजय लक्ष्मी माता, जगत भर में तुम्हारा डंका बजे,\nसिद्धि, बुद्धि, ऐश्वर्य के साथ, घर में लक्ष्मी का वास हो।",
+        "hinglish": "Om Jai Lakshmi Mata,\nJai Lakshmi Mata, Jagat bhar mein tumhara danka baje,\nSiddhi, Buddhi, Aishwarya ke saath, ghar mein Lakshmi ka vaas ho."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Durga Aarti",
+      "festivals": ["Navratri", "Durga Puja"],
+      "content": {
+        "hindi": "ॐ जय दुर्गे महाक्रूरी,\nमहाकाल से भी शक्तिशाली,\nशरण में आकर भकति कीजिए,\nसुरक्षा का आशीर्वाद पाईए।",
+        "hinglish": "Om Jai Durge Mahakroori,\nMahakaal se bhi shaktishaali,\nSharan mein aakar bhakti kijiye,\nSuraksha ka aashirwad paaiye."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Shiva Aarti",
+      "festivals": ["Maha Shivaratri", "Shivaratri"],
+      "content": {
+        "hindi": "ॐ जय शिवोम महादेव,\nपार्वती के प्रिय भगवान,\nभक्तों के कष्टों को हरने वाला,\nशिव शंकर महादेव।",
+        "hinglish": "Om Jai Shivom Mahadev,\nParvati ke priya Bhagwan,\nBhakton ke kashton ko harne wala,\nShiv Shankar Mahadev."
+      }
+    },
+    {
+      "id": 5,
+      "name": "Saraswati Aarti",
+      "festivals": ["Vasant Panchami", "Saraswati Puja"],
+      "content": {
+        "hindi": "ॐ जय सरस्वती मात,\nज्ञान की देवी हो तुम,\nनयननंदन शोभिता, \nरंग-बिरंगे पुष्पों से सजती हो तुम।",
+        "hinglish": "Om Jai Saraswati Mata,\nGyaan ki Devi ho tum,\nNayannanandan Shobhita,\nRang-birange pushpon se sajti ho tum."
+      }
+    },
+    {
+      "id": 6,
+      "name": "Hanuman Aarti",
+      "festivals": ["Hanuman Jayanti", "Ram Navami"],
+      "content": {
+        "hindi": "ॐ जय हनुमान ज्ञान गुण सागर,\nजय कपीस तिहुँ लोक उजागर,\nराम दूत अतुलित बल धामा,\nअंजनि पुत्र पवन सुत नामा।",
+        "hinglish": "Om Jai Hanuman Gyaan Gun Saagar,\nJai Kapis Tihun Lok Ujaagar,\nRam Doot Atulit Bal Dhaama,\nAnjani Putra Pawan Sut Naama."
+      }
+    },
+    {
+      "id": 7,
+      "name": "Krishna Aarti",
+      "festivals": ["Janmashtami", "Diwali"],
+      "content": {
+        "hindi": "ॐ जय श्री कृष्ण, जय कृष्णा,\nशरणागत वत्सल भगवान श्री कृष्णा,\nगोपियाँ के संग नृत्य करते,\nकान्हा के भव्य रूप में बिराजे।",
+        "hinglish": "Om Jai Shri Krishna, Jai Krishna,\nSharanagat Vatsal Bhagwan Shri Krishna,\nGopiyan ke sang nritya karte,\nKanha ke bhavya roop mein biraaje."
+      }
+    },
+    {
+      "id": 8,
+      "name": "Gayatri Aarti",
+      "festivals": ["Guru Purnima", "Navratri"],
+      "content": {
+        "hindi": "ॐ भूर्भुवः स्वः,\nतत्सवितुरवरेण्यं,\nभर्गो देवस्य धीमहि,\nधियो यो नः प्रचोदयात्।",
+        "hinglish": "Om Bhur Bhuvah Swah,\nTatsaviturvarenyam,\nBhargo Devasya Dhimahi,\nDhiyo Yo Nah Prachodayat."
+      }
+    },
+    {
+      "id": 9,
+      "name": "Mahalaxmi Aarti",
+      "festivals": ["Diwali", "Dussehra"],
+      "content": {
+        "hindi": "ॐ महालक्ष्मी महाप्रभा,\nधरती स्वर्ग की सुखदायी,\nतुम्हारा वास सदा घर में हो,\nसुख, समृद्धि, शांति से घर सजाओ।",
+        "hinglish": "Om Mahalaxmi Mahaprabha,\nDharti Swarg ki Sukhdaayi,\nTumhara Vaas Sada Ghar Mein Ho,\nSukh, Samriddhi, Shanti se Ghar Sajaao."
+      }
+    },
+    {
+      "id": 10,
+      "name": "Vishnu Aarti",
+      "festivals": ["Vaikuntha Ekadashi", "Diwali"],
+      "content": {
+        "hindi": "ॐ जय विष्णु भगवान,\nश्रीधर शरणागत वत्सल,\nजग के पालनहार,\nविष्णु के चरणों में बसा सुख।",
+        "hinglish": "Om Jai Vishnu Bhagwan,\nShridhar Sharanagat Vatsal,\nJag ke Paalanhaar,\nVishnu ke Charno mein basa sukh."
+      }
+    },
+    {
+      "id": 11,
+      "name": "Rama Aarti",
+      "festivals": ["Ram Navami", "Diwali"],
+      "content": {
+        "hindi": "ॐ जय श्री राम,\nराम के चरणों में बसा सुख,\nधरती पर अवतरित भगवान,\nराम के साथ धर्म का मार्ग।",
+        "hinglish": "Om Jai Shri Ram,\nRam ke charno mein basa sukh,\nDharti par avatrit Bhagwan,\nRam ke saath dharm ka maarg."
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ayyappa Aarti",
+      "festivals": ["Makar Sankranti", "Ayyappa Puja"],
+      "content": {
+        "hindi": "ॐ श्री अयप्पा,\nश्री अयप्पा के चरणों में,\nसुरक्षा और सुख की प्राप्ति हो,\nकृपा दृष्टि से हर संकट दूर हो।",
+        "hinglish": "Om Shri Ayyappa,\nShri Ayyappa ke charno mein,\nSuraksha aur sukh ki prapti ho,\nKripa drishti se har sankat door ho."
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ganga Aarti",
+      "festivals": ["Ganga Dussehra", "Kumbh Mela"],
+      "content": {
+        "hindi": "ॐ जय गंगा माँ,\nआपके चरणों में बसा है संसार,\nआपकी कृपा से शुद्ध हो जीवन,\nगंगा की लहरों में बसा है भगवान।",
+        "hinglish": "Om Jai Ganga Maa,\nAapke charno mein basa hai sansaar,\nAapki kripa se shuddh ho jeevan,\nGanga ki lahro mein basa hai Bhagwan."
+      }
+    },
+    {
+      "id": 14,
+      "name": "Dattatreya Aarti",
+      "festivals": ["Datta Jayanti", "Guru Purnima"],
+      "content": {
+        "hindi": "ॐ जय दत्तात्रेय,\nतेरा नाम है विश्व प्रसिद्ध,\nतुमसे ही है सभी देवताओं की शक्ति,\nतुमसे ही है भक्ति का गान।",
+        "hinglish": "Om Jai Dattatreya,\nTera naam hai vishv prasiddh,\nTumse hi hai sabhi devtaon ki shakti,\nTumse hi hai bhakti ka gaan."
+      }
+    },
+    {
+      "id": 15,
+      "name": "Santoshi Mata Aarti",
+      "festivals": ["Santoshi Mata Vrat"],
+      "content": {
+        "hindi": "ॐ जय संतोषी माता,\nशरणागत वत्सल माता,\nआपकी कृपा से मिलती है,\nसर्व सिद्धियों की प्राप्ति।",
+        "hinglish": "Om Jai Santoshi Mata,\nSharanagat Vatsal Mata,\nAapki kripa se milti hai,\nSarv siddhiyon ki prapti."
+      }
+    },
+    {
+      "id": 16,
+      "name": "Kubera Aarti",
+      "festivals": ["Dhanteras", "Diwali"],
+      "content": {
+        "hindi": "ॐ जय कुबेर देव,\nधन के देवता कुबेर,\nधन, वैभव और ऐश्वर्य का,\nआपकी कृपा से वास हो।",
+        "hinglish": "Om Jai Kubera Dev,\nDhan ke devta Kubera,\nDhan, Vaibhav aur Aishwarya ka,\nAapki kripa se vaas ho."
+      }
+    }
+  ]
+  
